@@ -1,0 +1,42 @@
+nav{
+    background-color: #FFF7ED;
+    padding:1.5rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+}
+.navWrapper{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navLogo{
+    width: 20%;
+}
+.navAside{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+.navAside li{
+    margin: 0 1rem;
+}
+.navAside li a{
+    color: #000;
+}
+
+footer{
+    text-align: center;
+    background-color: #252525;
+    padding: 1.5rem;
+    margin-top: auto;
+}
+footer h1{
+    color: #AAAAAA;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
